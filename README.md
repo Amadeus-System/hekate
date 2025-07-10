@@ -2,7 +2,7 @@
 
 # Hybrid Embedding & Knowledge-Augmented Text-to-SQL Engine (HEKATE)
 
-<!-- TOC -->d
+<!-- TOC -->
 
 - [Hybrid Embedding & Knowledge-Augmented Text-to-SQL Engine HEKATE](#hybrid-embedding--knowledge-augmented-text-to-sql-engine-hekate)
     - [Steps](#steps)
